@@ -1,0 +1,27 @@
+{
+  "name": "express-access",
+  "version": "0.0.1",
+  "description": "express js middleware to make use of access.js easier",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "keywords": [
+    "express",
+    "middleware",
+    "access",
+    "access.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ds82/express-access-right.git"
+  },
+  "author": "Dennis Saenger <npm-express-access@mail.ds82.de>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "1.7.3",
+    "eslint-config-ds82": "2.1.0",
+    "eslint-plugin-jasmine": "1.5.0",
+    "jasmine": "^2.3.1"
+  }
+}
